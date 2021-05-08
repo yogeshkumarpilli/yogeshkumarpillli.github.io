@@ -2,7 +2,7 @@
 [![HitCount](http://hits.dwyl.com/yogeshkumarpilli/yogeshkumarpilli.svg)](http://hits.dwyl.com/yogeshkumarpilli/yogeshkumarpilli-githubio)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yogeshkumarpilli/nyogeshkumarpilli.github.io/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Twitter](https://img.shields.io/twitter/follow/its_me_yogiii.svg?style=social&label=@sudo_navendu)](https://twitter.com/its_me_yogiii) 
+[![Twitter](https://img.shields.io/twitter/follow/its_me_yogiii.svg?style=social&label=@its_me_yogiii)](https://twitter.com/its_me_yogiii) 
 
 Hosted with ❤ by GitHub  
 
