@@ -6,7 +6,7 @@
 
 Hosted with ❤ by GitHub  
 
-A portfolio website that can be used to show your projects or other information. The site is live at [www.yogeshkumarpilli.com](https://yogeshkumarpilli.github.io/)
+A portfolio website that can be used to show your projects or other information. The site is live at [yogeshkumarpilli](https://yogeshkumarpilli.github.io/)
 
 If that does not convince you, here are some other reason that might make you build one:
 
