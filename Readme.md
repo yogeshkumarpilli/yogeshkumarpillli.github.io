@@ -1,12 +1,12 @@
 # Portfolio Website 
-[![HitCount](http://hits.dwyl.com/yogeshkumarpilli/yogeshkumarpilli.svg)](http://hits.dwyl.com/yogeshkumarpilli/yogeshkumarpilli-githubio)
+[![HitCount](http://hits.dwyl.com/yogeshkumarpilli/yogeshkumarpilli.svg)](http://hits.dwyl.com/yogeshkumarpilli/dashboard)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yogeshkumarpilli/yogeshkumarpilli.github.io/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Twitter](https://img.shields.io/twitter/follow/its_me_yogiii.svg?style=social&label=@its_me_yogiii)](https://twitter.com/its_me_yogiii) 
 
 Hosted with ❤ by GitHub  
 
-A portfolio website that can be used to show your projects or other information. The site is live at [yogeshkumarpilli](https://yogeshkumarpilli.github.io/yogeshkumarpillli.github.io/)
+A portfolio website that can be used to show your projects or other information. The site is live at [yogeshkumarpilli](https://yogeshkumarpilli.github.io/Dashboard/)
 
 If that does not convince you, here are some other reason that might make you build one:
 
